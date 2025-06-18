@@ -1,4 +1,4 @@
-#Pizza sales dashboard (Power BI)
+# Pizza sales dashboard (Power BI)
 This Power BI project analyzes sales data from a pizza restraurant to uncover insights about revenue, order trends, and best-selling products.
 
 ## Dataset
