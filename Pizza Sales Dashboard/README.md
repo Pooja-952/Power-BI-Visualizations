@@ -20,4 +20,4 @@ This Power BI project analyzes sales data from a pizza restraurant to uncover in
 - Sales by Pizza Type & size
 ---
 
-> Built by Pooja Rani | GitHub: github.com/Pooja-952
+> Built by Pooja Rani | GitHub: @Pooja-952
